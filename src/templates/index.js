@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://lienbangtravel.com/uploads/images/2019/03/vuon-hoa-lavender-o-da-lat-30032019-103659.jpg' title="Đà Lạt Ký Sự" tagline="Sông Núi thơ mộng.." />
+        <Header image='https://rongchoimienbac.net/wp-content/uploads/2017/01/san-may-va-nui-o-dau-thoi-gian-nao-la-tuyet-nhat-mien-bac-1280x720.jpg' title="Hướng về Núi" tagline="Sông Núi thơ mộng.." />
       
         <main id="site-main" className="site-main outer" role="main">
 

@@ -1,9 +1,9 @@
 module.exports = {
     blogPostDir: "src/pages/blog", // The name of directory that contains your posts.
-    siteTitle: "Đà Lạt Ký Sự", // Site title.
-    siteTitleAlt: "Chuyện mới kể..", // Alternative site title for SEO.
+    siteTitle: "Hướng về Núi", // Site title.
+    siteTitleAlt: "Chuyện tôi mới kể..", // Alternative site title for SEO.
     siteLogo: "https://api.adorable.io/avatars/150/logo.png", // Logo used for SEO and manifest.
-    siteUrl: "https://shareload.info/", // Domain of your website without pathPrefix.
+    siteUrl: "https://vldownload.com/", // Domain of your website without pathPrefix.
     pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
     siteDescription: "Nhóm của Bình.", // Website description used for RSS feeds/meta description tag.
     siteRss: "/rss.xml", // Path to the RSS file.
