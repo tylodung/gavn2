@@ -6,7 +6,7 @@ image: 'https://i.ytimg.com/vi/H9F9tLNf6TA/maxresdefault.jpg'
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-22T13:12:33.962Z
+date: 2019-08-22T13:12:33.962Z
 description:
  
 ---
@@ -24,7 +24,7 @@ Từ năm 1982 đến năm 1987, Ty Thuỷ lợi Lâm Đồng, được Bộ Thu
 Ngày 30-8-1998, Bộ Văn hoá – Thông tin ra Quyết định số 1811/QĐ/BT công nhận hồ Tuyền Lâm là Di tích Lịch sử – Văn hoá.
 
 
-HỒ TUYỀN LÂM HIỆN NAY
+**HỒ TUYỀN LÂM HIỆN NAY**
 
 Hồ Tuyền Lâm có diện tích hơn 350ha, độ sâu có nơi trên 30m. Nước hồ chảy qua một đập tràn 6 bậc và cung cấp nước tưới cho vùng đất dưới chân khu du lịch thác Prenn (huyện Đức Trọng) vào mùa khô. Vào ngày 15/2/2017 hồ Tuyền Lâm đã được công nhận là thắng cảnh Quốc Gia.
 
@@ -32,7 +32,7 @@ Hồ Tuyền Lâm có diện tích hơn 350ha, độ sâu có nơi trên 30m. N�
 Những đồi thông xanh, mặt nước hồ Tuyền Lâm thấp thoáng qua hàng cây.
 
 
-HỒ TUYỀN LÂM TRONG TƯƠNG LAI
+**HỒ TUYỀN LÂM TRONG TƯƠNG LAI**
 
 Trong tương lai, Khu du lịch hồ Tuyền Lâm sẽ trở thành một khu du lịch sinh thái, nghỉ dưỡng, hội thảo hiện đại, sang trọng, đồng thời vẫn giữ nguyên môi trường vốn có. Ý tưởng này đã được Uỷ ban nhân dân tỉnh Lâm Đồng ban hành Quyết định phê duyệt dự án điều chỉnh quy hoạch khu du lịch hồ Tuyền Lâm đến năm 2010 và tầm nhìn đến năm 2020.
 
@@ -72,43 +72,43 @@ Theo dự án này, Khu du lịch hồ Tuyền Lâm có diện tích 2.827ha v�
 
 * Hội nghị – hội thảo
 
-Vẻ đẹp thiên nhiên
+**Vẻ đẹp thiên nhiên**
 
 Có rất nhiều du khách thắc mắc với Hoa Dalat Travel là Hồ Tuyền Lâm có gì đặc biệt mà thu hút du khách đông đến thế câu trả lời chính là nơi đây có một vẻ đẹp hoang dã với hồ nước trong xanh, bao quanh xung quanh là rừng thông. Mách bạn một điều vô cùng thú vị đó chính là ngắm hoàng hôn và bình minh ở Hồ Tuyền Lâm sẽ rất tuyệt vời đó.
 
-Chơi gì?
+**Chơi gì?**
 Đến hồ bạn có thể lựa chọn các trò chơi như đạp vịt, uống cà phê ngắm cảnh hồ bạn cũng có thể tham khảo tour chèo thuyền ngắm lá phong của Hoa Dalat Travel để cảm nhận được vẻ đẹp của tự nhiên nơi đây.
 
 Nếu muốn khám phá toàn bộ hồ bạn có thể đến bến du thuyền hồ tuyền lâm đi một vòng quanh hồ với giá từ 300.000đ tới 500,000đ cho một thuyền đoàn từ 6 tới 15 người.
 
-Ăn gì?
+**Ăn gì?**
 Quanh hồ có rất nhiều nhà hàng ngon về thịt rừng cho bạn lựa chọn, ngoài ra bạn cũng có thể ăn các món bình dân khác ở các quán gần khu du lịch.
 
-Ở khách sạn, Resort
+**Ở khách sạn, Resort**
 
 Có rất nhiều khách sạn và Resort đẹp long lanh tiêu chuẩn 4,5 sao có view nhìn ra hồ cho bạn lựa chọn nghỉ dưỡng, có thể kể tới như:
 
-Dalat Edensee
+Dalat Edensee;
 
-Terracotta hotel & resort
+Terracotta hotel & resort;
 
-Sam Tuyền Lâm
+Sam Tuyền Lâm;
 
 Bình An Village.
 
-Điểm tham quan
+**Điểm tham quan**
 
 Ngoài ngắm cảnh hồ và ở các khách sạn đẹp bạn còn có thể tham quan hàng loạt các khu du lịch và điểm tham quan nổi tiếng quanh hồ Tuyền Lâm như:
 
-Đường hầm Điêu Khắc
+Đường hầm Điêu Khắc;
 
-Thiền Viện Trúc Lâm
+Thiền Viện Trúc Lâm;
 
-Thác Datanla
+Thác Datanla;
 
 Khu du lịch Đá Tiên Núi Voi do Công ty Du lịch dã ngoại Phương Nam tổ chức là một khu du lịch dã ngoại liên hợp: du khách bơi thuyền, câu cá, cưỡi voi, đi săn, leo núi, nghỉ ngơi trong nhà sàn, đốt lửa trại, xem trình diễn văn nghệ của đồng bào dân tộc bản địa,…Khu du lịch dã ngoại Đá Tiên có một nhà sàn dài, một số nhà sàn nhỏ lợp tranh, nhiều tảng đá lớn, trong đó có một tảng đá mang hình dáng ông tiên.Từ bến thuyền gần đập hồ Tuyền Lâm đến Đá Tiên, thuyền đi mất khoảng 15 phút, các điểm du lịch phía cuối hồ mất khoảng 25 phút.
 
-Sân Golf Sacom
+Sân Golf Sacom;
 
 Thác Bảo Đại là một thác nhỏ, tương truyền vua Bảo Đại đã dừng chân trong những chuyến đi săn.
 
@@ -116,20 +116,20 @@ Khu du lịch Nam Qua có những nhà hàng, ki-ốt lợp tranh phục vụ du
 
 Cầu gỗ Hồ Tuyền Lâm: Là điểm đang được giới trẻ săn lùng nhiều nhất trong thời gian qua
 
-Kinh nghiệm du lịch Hồ Tuyền Lâm
+**Kinh nghiệm du lịch Hồ Tuyền Lâm**
 
 Bạn nên đi tới hồ vào buổi sáng nắng đẹp thích hợp cho các dịch vụ vui chơi như chèo thuyền, đạp vịt và chụp ảnh cũng đẹp hơn vào mùa mưa thì Đà Lạt thường mưa vào buổi chiều, đến hồ vào lúc này bạn sẽ không chơi được gì cả.
 
 
 
-Đường đi đến Hồ Tuyền Lâm
+**Đường đi đến Hồ Tuyền Lâm**
 
 Để đi tới hồ Tuyền Lâm bạn có thể đi theo các con đường sau bằng xe máy hoặc nếu đi bằng Taxi thì mất khoảng 70,000đ, đường tới hồ rất đẹp.
 
-Đường đầu tiên
+**Đường đầu tiên**
 
 Từ chợ Đà Lạt bạn đi theo đường Nguyễn Văn Cừ => Bà Triệu => Trần Phú => Lê Hồng Phong => Triệu Việt Vương và đi theo các biển chỉ dẫn tới địa phận Thiền Viện Trúc Lâm bạn rẽ tay phải đi thẳng là tới Hồ. Để đi tiết bạn đi theo bản đồ dưới đây.
 
-Đường thứ 2
+**Đường thứ 2**
 
 Đường tiếp theo bạn đi theo hướng đèo Prenn như sau: Từ chợ Đà Lạt bạn đi qua cầu Ông Đạo => đường Trần Quốc Toản => đường Hồ Tùng Mậu => đường 3 tháng 4=> xuống đèo Prenn đi thêm khoảng 3km đoạn gần tới thác Datanla sẽ thấy bảng chỉ dẫn đi vào Thiền Viện Trúc Lâm đi thẳng vào khoảng 1km là tới Hồ.

@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://rongchoimienbac.net/wp-content/uploads/2017/01/san-may-va-nui-o-dau-thoi-gian-nao-la-tuyet-nhat-mien-bac-1280x720.jpg' title="Hướng về Núi" tagline="Sông Núi thơ mộng.." />
+        <Header image='https://www.vntrip.vn/cam-nang/wp-content/uploads/2017/07/bach-moc-luong-tu-1.jpg' title="Hướng về Núi" tagline="Sông Núi thơ mộng.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
