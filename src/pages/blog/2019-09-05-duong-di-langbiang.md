@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/langbiang-da-lat-dinh.
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-08-21T13:12:33.962Z
+date: 2019-09-05T13:12:33.962Z
 description:
 
 ---
@@ -16,7 +16,7 @@ Langbiang ngọn núi nổi tiếng nhất thành phố Hoa điều du khách ư
 Núi LangBiang Đà Lạt nằm trên địa bàn **huyện Lạc Dương**, cách trung tâm thành phố ngàn hoa mộng mơ khoảng 12km về phía bắc.
 
 **Giá vé:**
-Để có thể tham quan núi Lanbiang bạn phải mua vé vào cổng với giá 20.000đ/khách
+Để có thể tham quan núi Lanbiang bạn phải mua vé vào cổng với giá 20.000đ/khách.
 
 
 **Truyền thuyết**
@@ -43,10 +43,10 @@ Một số đoàn khách gồm những thanh niên trẻ, khỏe, thích những
 
 Trò chơi mạo hiểm này được đưa vào khai thác khách du lịch từ năm 2014, khi tham gia trò chơi này bạn sẽ được huấn luyện kỹ càng và bắt đầu bay từ đỉnh Radar xuống phía hồ Đan Kia.
 
-Giá một lần bay khoảng 600.000đ
+Giá một lần bay khoảng 600.000đ.
 
 *Đi xe Jeep:*
-Với chi phí 300.000đ/ xe cho khoảng 5 tới 6 người là bạn sẽ được đi từ chân núi lên tới đỉnh bằng Xe Jeep
+Với chi phí 300.000đ/ xe cho khoảng 5 tới 6 người là bạn sẽ được đi từ chân núi lên tới đỉnh bằng Xe Jeep.
 
 
 **Tham quan núi Lanbiang**
@@ -62,8 +62,6 @@ Langbiang có đầy đủ các dịch vụ du lịch đà lạt như nhà hàng
 
 Ngay dưới chân núi, có một thung lũng khá lớn, nơi tổ chức thành công lễ hội 100 năm Đà Lạt hình thành và phát triển. Do đó, nó được gọi là Thung lũng trăm năm, được thiết kế như một khu du lịch sinh thái, giải trí.
 
-Tại đây, du khách có thể thưởng thức chương trình tour cồng chiêng Đà Lạt, đốt lửa trại, uống rượu cần với đồng bào dân tộc, nghe họ kể những câu chuyện và văn hoá của dân tộc. đỉnh núi Lanbiang
-Núi Langbiang Đà Lạt
 
 **Trên đỉnh núi**
 
