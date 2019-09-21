@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://img.tranhlavender.com/wp-content/uploads/2019/03/tranh-theu-chu-thap-lavender-LV3100-non-nuoc-huu-tinh-151x65-293.jpg' title="Non Nước hữu tình" tagline="Sông Núi thơ mộng.." />
+        <Header image='https://www.vntrip.vn/cam-nang/wp-content/uploads/2017/07/bach-moc-luong-tu-1.jpg' title="Hướng về Núi" tagline="Sông Núi thơ mộng.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
