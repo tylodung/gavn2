@@ -31,7 +31,7 @@ const Template = ({ data }) => {
 
       <Navbar />
 
-      <Helmet title={`Hướng về Núi | ${post.frontmatter.title}`} />
+      <Helmet title={`Non Nước hữu tình | ${post.frontmatter.title}`} />
 
       <div className="blog-post-header" style={{ backgroundImage: `url(${ post.frontmatter.image })` }}>
 
