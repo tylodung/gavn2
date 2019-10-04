@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /f-canh-dong
 title: F Cánh Đồng Hoa Đà Lạt và Quán cà phê đang làm giới trẻ phát Sốt
-image: 'https://i.ytimg.com/vi/ncDcdTFGiR4/maxresdefault.jpg' 
+image: 'https://dalattrongtoi.com/media/upload/images/Hoa/F%20C%C3%A1nh%20%C4%90%E1%BB%93ng%20Hoa%20%C4%90%C3%A0%20L%E1%BA%A1t%20(3).jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-07-23T13:12:33.962Z
+date: 2019-10-04T13:12:33.962Z
 description:
 
 ---
@@ -18,11 +18,11 @@ Một quán cà phê và cũng là điểm tham quan vô cùng thú vị và h�
 
 **Địa chỉ:**
 
-Cafe F cánh đồng hoa thuộc đường lánh nạn 1, đèo Mimosa, phường 10 thành phố Đà Lạt tỉnh Lâm Đồng
+Cafe F cánh đồng hoa thuộc đường lánh nạn 1, đèo Mimosa, phường 10 thành phố Đà Lạt tỉnh Lâm Đồng.
 
 **Mở cửa:**
 
-Quán có thời gian mở cửa vào lúc 8h sáng và đóng cửa lúc 18h hàng ngày
+Quán có thời gian mở cửa vào lúc 8h sáng và đóng cửa lúc 18h hàng ngày.
 
 **Giá vé tham quan:**
 
@@ -34,7 +34,7 @@ Trẻ dưới 5 tuổi miễn phí. 
 
 **Số điện thoại:**
 
-Nếu có nhu cầu liên hệ quán bạn có thể liên hệ qua số: 0263 3516 777
+Nếu có nhu cầu liên hệ quán bạn có thể liên hệ qua số: 0263 3516 777.
 
 **Đường đi F Cánh đồng Hoa**
 
@@ -55,7 +55,6 @@ Khi thấy bảng của bệnh viện Hoàn Mỹ Đà Lạt đi thêm khoảng g
 Bạn cũng còn một đường khác đi tới quán cà phê này đó chính là đi từ dưới Đức Trọng lên, quán nằm ở khoảng gần giữa đường và bạn sẽ thấy nó nằm bên phía tay phải nhé.
 
 
-Quán cà phê: Uống cà phê và ngắm hoa từ trên cao
 
 **Mua vé để đi xuống ngắm hoa và chụp hình trực tiếp**
 
