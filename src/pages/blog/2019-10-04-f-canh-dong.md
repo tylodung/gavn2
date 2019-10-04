@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /f-canh-dong
 title: F Cánh Đồng Hoa Đà Lạt và Quán cà phê đang làm giới trẻ phát Sốt
-image: 'https://dalattrongtoi.com/media/upload/images/Hoa/F%20C%C3%A1nh%20%C4%90%E1%BB%93ng%20Hoa%20%C4%90%C3%A0%20L%E1%BA%A1t%20(3).jpg' 
+image: 'https://datphongdalat.vn/wp-content/uploads/2018/02/F-canh-dong-hoa-Da-Lat-dia-diem-du-lich-da-lat-datphongdalat.vn-5.jpg' 
 tags:
   - Dia diem
 uev: 4.18.6
