@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/doi-mong-mo-resort.jpg
 tags:
   - Love
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
+date: 2019-07-23T13:12:33.962Z
 description:
 
 ---
@@ -26,7 +26,7 @@ Nơi đây được tôn tạo từ Hồ Rồng( Hồ Rồng được khởi cô
 
 Đồi Mộng Mơ là một điểm du lịch được khai trương vào năm 2003 nhân dịp kỷ niệm 110 năm Đà Lạt hình thành và phát triển.
 
-Đồi mộng mơ tiếng anh là Dreaming Hill
+Đồi mộng mơ tiếng anh là Dreaming Hill.
 
 
 **Tham quan Đồi Mộng Mơ Đà Lạt**
@@ -58,13 +58,13 @@ Cây tình yêu hay còn gọi là cây ước nguyện: Khi đến cây này c�
 
 Vạn Lý Trường Thành: Đây là mô hình đươc dựng nên bởi các tảng đá nguyên khối giống với Vạn Lý Trường Thành của người Trung Quốc
 
-Thưởng thức Phim 5D Mê Cung Thần Thoại Tây Nguyên
+Thưởng thức Phim 5D Mê Cung Thần Thoại Tây Nguyên;
 
-Bảo Tàng Choé của người Tây Nguyên
+Bảo Tàng Choé của người Tây Nguyên;
 
-Đồi Hoa Sim và đồi Trịnh Công Sơn
+Đồi Hoa Sim và đồi Trịnh Công Sơn;
 
-Thác Vàng
+Thác Vàng;
 
 Khu vườn kỳ lạ: Trong vườn này sẽ có những sinh vật bị đột biến gen như gà 7 cựa, trâu, bò có 5 chiếc sừng hay con heo có 5 chân
 
@@ -74,15 +74,15 @@ Nếu bạn muốn nghỉ dưỡng trực tiếp tại Đồi Mộng Mơ thì c�
 
 **Có 5 loại phòng chính trong khu Resort**
 
-Phòng Double/Twin: 430.000/đêm
+Phòng Double/Twin: 430.000/đêm;
 
-Phòng Triple: 630.000/đêm
+Phòng Triple: 630.000/đêm;
 
-Phòng Quad: 820.000/đêm
+Phòng Quad: 820.000/đêm;
 
-Phòng Rose villa: 3.100.000/đêm
+Phòng Rose villa: 3.100.000/đêm;
 
-Phòng Extra person: 200.000/đêm
+Phòng Extra person: 200.000/đêm.
 
 
 **Giá vé đồi mộng mơ:**

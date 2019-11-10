@@ -6,7 +6,7 @@ image: 'https://i.ytimg.com/vi/H9F9tLNf6TA/maxresdefault.jpg'
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-08-22T13:12:33.962Z
+date: 2019-09-13T13:12:33.962Z
 description:
  
 ---
@@ -64,24 +64,26 @@ Theo dự án này, Khu du lịch hồ Tuyền Lâm có diện tích 2.827ha v�
 
 Đến nay, Khu du lịch hồ Tuyền Lâm đã có 27 nhà đầu tư, tổng số vốn đầu tư đăng ký là 4.841 tỷ đồng, đầu tư vào các dự án từ 3 sao trở lên. Đến năm 2010, hồ Tuyền Lâm sẽ là một khu du lịch quốc gia bền vững có quy mô tầm cỡ khu vực và quốc tế với những sản phẩm du lịch chính như:
 
-* Du lịch nghỉ dưỡng cao cấp
+* Du lịch nghỉ dưỡng cao cấp;
 
-* Du lịch vui chơi giải trí
+* Du lịch vui chơi giải trí;
 
-* Du lịch sinh thái
+* Du lịch sinh thái;
 
-* Hội nghị – hội thảo
+* Hội nghị – hội thảo;
 
 **Vẻ đẹp thiên nhiên**
 
 Có rất nhiều du khách thắc mắc với Hoa Dalat Travel là Hồ Tuyền Lâm có gì đặc biệt mà thu hút du khách đông đến thế câu trả lời chính là nơi đây có một vẻ đẹp hoang dã với hồ nước trong xanh, bao quanh xung quanh là rừng thông. Mách bạn một điều vô cùng thú vị đó chính là ngắm hoàng hôn và bình minh ở Hồ Tuyền Lâm sẽ rất tuyệt vời đó.
 
 **Chơi gì?**
+
 Đến hồ bạn có thể lựa chọn các trò chơi như đạp vịt, uống cà phê ngắm cảnh hồ bạn cũng có thể tham khảo tour chèo thuyền ngắm lá phong của Hoa Dalat Travel để cảm nhận được vẻ đẹp của tự nhiên nơi đây.
 
 Nếu muốn khám phá toàn bộ hồ bạn có thể đến bến du thuyền hồ tuyền lâm đi một vòng quanh hồ với giá từ 300.000đ tới 500,000đ cho một thuyền đoàn từ 6 tới 15 người.
 
 **Ăn gì?**
+
 Quanh hồ có rất nhiều nhà hàng ngon về thịt rừng cho bạn lựa chọn, ngoài ra bạn cũng có thể ăn các món bình dân khác ở các quán gần khu du lịch.
 
 **Ở khách sạn, Resort**
@@ -126,10 +128,10 @@ Bạn nên đi tới hồ vào buổi sáng nắng đẹp thích hợp cho các 
 
 Để đi tới hồ Tuyền Lâm bạn có thể đi theo các con đường sau bằng xe máy hoặc nếu đi bằng Taxi thì mất khoảng 70,000đ, đường tới hồ rất đẹp.
 
-**Đường đầu tiên**
+*Đường đầu tiên*
 
 Từ chợ Đà Lạt bạn đi theo đường Nguyễn Văn Cừ => Bà Triệu => Trần Phú => Lê Hồng Phong => Triệu Việt Vương và đi theo các biển chỉ dẫn tới địa phận Thiền Viện Trúc Lâm bạn rẽ tay phải đi thẳng là tới Hồ. Để đi tiết bạn đi theo bản đồ dưới đây.
 
-**Đường thứ 2**
+*Đường thứ 2*
 
 Đường tiếp theo bạn đi theo hướng đèo Prenn như sau: Từ chợ Đà Lạt bạn đi qua cầu Ông Đạo => đường Trần Quốc Toản => đường Hồ Tùng Mậu => đường 3 tháng 4=> xuống đèo Prenn đi thêm khoảng 3km đoạn gần tới thác Datanla sẽ thấy bảng chỉ dẫn đi vào Thiền Viện Trúc Lâm đi thẳng vào khoảng 1km là tới Hồ.

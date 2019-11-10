@@ -6,7 +6,7 @@ image: 'https://i.ytimg.com/vi/XUPCLkWYFaU/maxresdefault.jpg'
 tags:
   - Love
 uev: 4.18.6
-date: 2019-07-23T13:12:33.962Z
+date: 2019-09-13T13:12:33.962Z
 description:
  
 ---
@@ -17,18 +17,21 @@ Bức tường tiệm bánh cối xay gió đà lạt có gì hấp dẫn mà m�
 
 Nằm ở ngay trung tâm thành phố ngàn hoa thơ mộng nên bạn chỉ mất vài phút đi bộ để tới đây.
 
-**Địa chỉ:**
+Địa chỉ:
 Tiệm bánh cối xay gió có địa chỉ chính xác số 01 khu Hòa Bình thuộc phường 1 thành phố Đà Lạt tỉnh Lâm Đồng.
 
 
-**Đường đi:**
+Đường đi:
 Do nằm ở ngay khúc cua của đường một chiều nên bạn phải chú ý một chút thì mới tìm ra tiệm bánh này.
 
 Mình sẽ chỉ đường cho bạn từ chỗ rạp chiếu phim phim ở mặt trước khu Hòa Bình nha.
 
 Nếu đang đứng ở rạp chiếu phim bạn rẽ tay trái đi khoảng 60m là hết rạp phim.
+
 Tiếp thep bạn thấy đường Phan Bội Châu đi vào 4m rồi rẽ tay trái tới đường Nguyễn Văn Trỗi.
+
 Đi thêm 100m rẽ phải là tới tiệm bánh cối xay gió đà lạt.
+
 Nếu bạn đi bộ có thể sẽ đi nhanh hơn nhưng quanh khu vực này đều là đường 1 chiều nên nếu bạn đi bằng xe máy thì phải đi theo cách của mình chỉ.
 
 

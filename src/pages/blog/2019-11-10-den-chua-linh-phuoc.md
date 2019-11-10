@@ -6,14 +6,14 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/tuong-phat-quan-the-am
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-07-26T13:12:33.962Z
-description:
+date: 2019-11-10T13:12:33.962Z
+description: Rất nhiều du khách đã thắc mắc chùa ve chai ở đâu, chùa linh phước đà lạt ở đâu, chùa linh phước đà lạt 18 tầng địa ngục có thật không?
  
 ---
 
 Rất nhiều du khách đã thắc mắc chùa ve chai ở đâu, chùa linh phước đà lạt ở đâu, chùa linh phước đà lạt 18 tầng địa ngục có thật không?
 
-Chùa có địa chỉ tại **120 Tự Phước thuộc phường 11 thành phố Đà Lạt tỉnh Lâm Đồng**.
+Chùa có địa chỉ tại **120 Tự Phước thuộc phường 11 thành phố Đà Lạt tỉnh Lâm Đồng.**
 
 
 **Đường đi chùa Linh Phước**

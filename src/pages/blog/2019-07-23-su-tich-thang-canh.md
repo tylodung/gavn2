@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/giai-thich-ten-ho-than
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-07-26T13:12:33.962Z
+date: 2019-07-23T13:12:33.962Z
 description:
  
 ---
@@ -18,7 +18,7 @@ Hồ Than Thở là địa danh được đông đảo du khách tham quan nhi�
 Rất nhiều du khách muốn biết hồ than thở ở đâu? và sau đây là câu trả lời: Hồ Than Thở nằm cách trung tâm Đà Lạt khoảng 6km về phía đông, theo trục đường Quang Trung – Hồ Xuân Hương.
 
 **Giá vé:**
-Để vào được trong khu du lịch bản phải mua vé với giá 20.000đ/ người
+Để vào được trong khu du lịch bản phải mua vé với giá 20.000đ/người.
 
 **Đường đi:**
 Từ trung tâm Đà Lạt bạn đi qua cầu Ông Đạo => đi qua quảng trường Lâm Viên => đường Yersin => Đường Quang Trung => đường Phan Chu Trinh => Đường Hồ Xuân Hương => đi tới cuối đường nhìn bên tay phải là khu du lịch Hồ Than Thở.
@@ -29,9 +29,9 @@ Từ trung tâm Đà Lạt bạn đi qua cầu Ông Đạo => đi qua quảng tr
 
 Từ lâu, tên hồ Than Thở đã trở nên nổi tiếng với 2 câu thơ:
 
-**“Đà Lạt có thác Cam Ly**
+“Đà Lạt có thác Cam Ly
 
-**Có hồ Than Thở người đi sao đành”**
+Có hồ Than Thở người đi sao đành”
 
 Sở dĩ nổi tiếng là vì hồ nằm gần trường Võ bị quốc gia Đà Lạt (nay là Học viện Lục quân) và gắn liền với một thời hoàng kim của trường vào thập niên 1950, đầu thập niên 1960. Cứ ngày nghỉ, lễ, chủ nhật là gia đình của các học viên và người yêu kéo đến gặp nhau vui chơi ở đây.
 

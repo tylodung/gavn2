@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/cao-dang-su-pham-da-la
 tags:
   - Love
 uev: 4.18.6
-date: 2019-07-23T13:12:33.962Z
+date: 2019-06-21T13:12:33.962Z
 description:
 
 ---
@@ -83,4 +83,4 @@ Nếu đi du lịch đà lạt bạn đừng quên ghé thăm ngôi trường đ
 
 **Lưu ý khi đến trường**
 
-Khi đến cổng trường bạn phải dừng lại và dắt xe qua cổng, từ cổng vào bạn để xe ở bên tay trái cách cổng trường 50m giá vé giữ xe là 2000đ/lượt.
+Khi đến cổng trường bạn phải dừng lại và dắt xe qua cổng, từ cổng vào bạn để xe ở bên tay trái cách cổng trường 50m giá vé giữ xe là 2000đ/ lượt.
