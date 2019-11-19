@@ -1,6 +1,6 @@
 module.exports = {
     blogPostDir: "src/pages/blog", // The name of directory that contains your posts.
-    siteTitle: "Non Nước hữu tình", // Site title.
+    siteTitle: "Da Lat Load", // Site title.
     siteTitleAlt: "Chuyện tôi mới kể..", // Alternative site title for SEO.
     siteLogo: "https://api.adorable.io/avatars/150/logo.png", // Logo used for SEO and manifest.
     siteUrl: "https://vldownload.com/", // Domain of your website without pathPrefix.

@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://www.xemgame.com/data/pictures/img//2016414/19deb53a1f1f7b7f408331a0bc15758e/111-1460629900.png' title="Non Nước hữu tình" tagline="Sông Núi thơ mộng.." />
+        <Header image='https://www.xemgame.com/data/pictures/img//2016414/19deb53a1f1f7b7f408331a0bc15758e/111-1460629900.png' title="Da Lat Load" tagline="Romantic mountain and driver.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
