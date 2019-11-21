@@ -4,10 +4,11 @@ path: /thung-lung-tinh-yeu
 title: Thung Lũng Tình Yêu có gì khi tăng giá vé lên 100.000đ
 image: 'https://i.ytimg.com/vi/TQ3tr7hXV1s/maxresdefault.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-11-21T13:12:33.962Z
+description: Thung lũng tình yêu là một trong những địa điểm du lịch Đà Lạt mà du khách yêu cầu được tham quan nhiều nhất.
+
  
 ---
 
@@ -29,7 +30,7 @@ Cái tên Thung Lũng Tình Yêu ra đời năm 1953 khi ông Nguyễn Vỹ làm
 Để có được hồ Đa Thiện đẹp như ngày nay là do vào năm 1972 có một con đập được xây dựng vắt qua thung lũng tạo nên một cảnh tượng vô cùng thơ mộng.
 
 
-Tên gọi thung lũng tình yêu bằng tiếng Pháp được in trên cỏ ở hình trên, còn thung lũng tình yêu tiếng anh là Valley of Love
+Tên gọi thung lũng tình yêu bằng tiếng Pháp được in trên cỏ ở hình trên, còn thung lũng tình yêu tiếng anh là Valley of Love.
 
 **Thung lũng tình yêu nằm ở đâu**
 
@@ -46,7 +47,7 @@ Chi tiết của bản đồ phía trên như sau: Từ chợ Đà Lạt bạn �
 
 **Giá vé thung lũng tình yêu đà lạt**
 
-Giá vé vào cổng của thung lũng tình yêu hiện nay là: 100.000đ/ khách người lớn trên 1m2 và trẻ em là 50.000đ.
+Giá vé vào cổng của thung lũng tình yêu hiện nay là: 100.000đ/khách người lớn trên 1m2 và trẻ em là 50.000đ.
 
 Đọc qua thì có vẻ khá đắt nhưng giá trên đã bao gồm: Vé vào cổng, vé đi tàu lửa hoặc xe điện, đạp vịt quanh khu du lịch.
 
@@ -57,7 +58,7 @@ Với tổng diện tích lên tới 140ha thung lũng tình yêu là địa ch�
 
 Một trong những nơi đẹp nhất trong thung lũng tình yêu là đồi Vọng Cảnh. Có hai con đường để đi lên đồi này là đi bộ theo đường mòn hoặc đi theo các bậc tam cấp đã được xây dựng sẵn. Vào mỗi mùa hoa Mimosa nở thì đây chính là nơi ngắm loài hoa này đẹp nhất. Ở trên đồi Vọng Cảnh này còn có hoa viên Tiểu Sơn Lâm với các cây đại thụ được tạo thế trông vô cùng đẹp mắt.
 
-Bao quanh thung lũng tình yêu là Hồ Đa Thiện và rừng thông quanh năm xanh ngắt một màu
+Bao quanh thung lũng tình yêu là Hồ Đa Thiện và rừng thông quanh năm xanh ngắt một màu.
 
 Mê cung trong thung lũng tình yêu.
 
