@@ -6,8 +6,8 @@ image: 'https://i.ytimg.com/vi/FgLAxC_h3sI/maxresdefault.jpg'
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-07-04T13:12:33.962Z
-description:
+date: 2019-11-28T13:12:33.962Z
+description: Khi mà mùa hoa dã quỳ vàng rực còn chưa qua dân tình khắp nơi lại đồn đại về một loài cỏ tuyệt đẹp không chỉ mọc thành từng khóm nhỏ mà mọc nguyên cả một quả đồi...
 
 ---
 
@@ -18,9 +18,6 @@ Khi mà mùa hoa dã quỳ vàng rực còn chưa qua dân tình khắp nơi l�
 
 Hai tên gọi trên đều nói về cùng một loại cỏ và mọc ở cùng một địa điểm, vậy tại sao chúng lại có tên gọi khác nhau và từ khi mọc đã làm dân tình khắp nơi điên đảo muốn đi đến tận nơi để checkin đến thế?
 
-Sau đây Hoa Dalat Travel sẽ giải thích để cho các bạn hiểu rõ tránh trường hợp các bạn ở xa không biết đi đến đúng địa điểm rồi mà vẫn cố đi khắp nơi để kiếm ra cho bằng được.
-
-
 **Đồi cỏ tuyết đà lạt:**
 
 Nếu bạn muốn gặp được cỏ tuyết thì phải đến địa điểm ở đà lạt này thật sớm trước khi mặt trời ló rạng, lúc này một loài cỏ tuyệt đẹp mang trên mình những giọt sương ban mai trắng ngắt cả một vùng trông như những bông tuyết, chính vì thế tên gọi cỏ tuyết ra đời từ đây.
@@ -30,7 +27,7 @@ Sau khi ánh mặt trời chiếu rọi làm những giọt sương đọng trê
 Cũng giống như hoa dã quỳ thời điểm xuất hiện của đồi cỏ hồng ở đà lạt là vào khoảng những ngày đầu tháng 11 và kết thúc – tàn lụi vào tháng 12. Chính vì thế nếu bạn yêu thích đồi cỏ hồng đà lạt này và muốn checkin ngay và luôn thì hãy sắp xếp thời gian để có một chuyến du lịch đến thành phố đà lạt hoàn hảo, ngắm nhìn được 1 loài hoa và một loài cỏ đẹp nhất của núi rừng Tây Nguyên.
 
 
-Đà Lạt hiện nay có 2 khu vực xuất hiện đồi cỏ hồng đẹp nhất đó chính là ở khu vực Suối Vàng  và gần khu du lịch thung lũng vàng.
+Đà Lạt hiện nay có 2 khu vực xuất hiện đồi cỏ hồng đẹp nhất đó chính là ở khu vực Suối Vàng và gần khu du lịch thung lũng vàng.
 
 **Đồi cỏ hồng ở khu vực thung lũng vàng**
 
