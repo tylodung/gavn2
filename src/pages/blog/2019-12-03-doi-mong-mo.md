@@ -4,10 +4,10 @@ path: /doi-mong-mo
 title: Đồi Mộng Mơ Đà Lạt có gì mà ai cũng muốn tham quan?
 image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/doi-mong-mo-resort.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-07-23T13:12:33.962Z
-description:
+date: 2019-12-03T13:12:33.962Z
+description: Đà Lạt từ lâu đã trở thành một trong những thành phố du lịch nổi tiếng nhất của Việt Nam, với nhiều cảnh quan thiên nhiên đẹp và thơ mộng.
 
 ---
 
@@ -87,7 +87,7 @@ Phòng Extra person: 200.000/đêm.
 
 **Giá vé đồi mộng mơ:**
 
-50.000đ/ người lớn trẻ em 20.000đ trẻ em dưới 0,8m được miễn phí vé vào cổng
+50.000đ/người lớn trẻ em 20.000đ trẻ em dưới 0,8m được miễn phí vé vào cổng.
 
 **Đường đi Đồi Mộng Mơ**
 

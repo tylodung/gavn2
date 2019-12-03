@@ -6,8 +6,8 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/giai-thich-ten-ho-than
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-07-23T13:12:33.962Z
-description:
+date: 2019-12-03T13:12:33.962Z
+description: Hồ Than Thở là địa danh được đông đảo du khách tham quan nhiều nhất. Cùng khám phá để biết về sự tích hồ Than Thở Đà Lạt nhé.
  
 ---
 
@@ -22,7 +22,6 @@ Rất nhiều du khách muốn biết hồ than thở ở đâu? và sau đây l
 
 **Đường đi:**
 Từ trung tâm Đà Lạt bạn đi qua cầu Ông Đạo => đi qua quảng trường Lâm Viên => đường Yersin => Đường Quang Trung => đường Phan Chu Trinh => Đường Hồ Xuân Hương => đi tới cuối đường nhìn bên tay phải là khu du lịch Hồ Than Thở.
-
 
 Đến thăm quan nơi đây, du khách sẽ được nghe kể về những chuyện tình cảm động đã mượn nước hồ để giữ mãi mối tình chung thủy.
 
