@@ -6,12 +6,12 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/12/mai-anh-da-lat-thang-1
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-07-26T13:12:33.962Z
-description:
+date: 2019-12-04T13:12:33.962Z
+description: Nếu trong tháng 11 bạn đến thành phố mộng mơ đã phát sốt với đồi cỏ hồng và hoa dã quỳ thì trong tháng 1 một loài hoa cực phẩm nữa sẽ xuất hiện đó chính là hoa mai anh đào đà lạt.
  
 ---
 
-Nếu trong tháng 11 bạn đến thành phố mộng mơ đã phát sốt với đồi cỏ hồng và hoa dã quỳ thì trong tháng 1 một loài hoa cực phẩm nữa sẽ xuất hiện đó chính là hoa mai anh đào đà lạt.
+
 
 
 **Nguồn gốc**

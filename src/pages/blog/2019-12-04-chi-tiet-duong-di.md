@@ -6,8 +6,8 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/linh-quy-phap-an-mot-t
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-09-16T13:12:33.962Z
-description:
+date: 2019-12-04T13:12:33.962Z
+description: Chùa Linh Quy Pháp Ấn địa điểm hot nhất trong những năm gần đây sẽ được chia sẻ chi tiết trong bài viết này.
 
 ---
 
