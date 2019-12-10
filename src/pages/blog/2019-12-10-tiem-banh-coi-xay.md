@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 path: /tiem-banh-coi-xay
-title: Tiệm bánh cối xay gió đà lạt điểm check in hot nhất Đà Lạt 2019
+title: Tiệm bánh cối xay gió đà lạt điểm check in hot nhất Đà Lạt
 image: 'https://i.ytimg.com/vi/XUPCLkWYFaU/maxresdefault.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-09-13T13:12:33.962Z
-description:
+date: 2019-12-10T13:12:33.962Z
+description: Bức tường tiệm bánh cối xay gió đà lạt có gì hấp dẫn mà mỗi ngày lại có hàng trăm bạn trẻ đến chụp hình và check in.
  
 ---
 
@@ -17,11 +17,11 @@ Bức tường tiệm bánh cối xay gió đà lạt có gì hấp dẫn mà m�
 
 Nằm ở ngay trung tâm thành phố ngàn hoa thơ mộng nên bạn chỉ mất vài phút đi bộ để tới đây.
 
-Địa chỉ:
+*Địa chỉ:*
 Tiệm bánh cối xay gió có địa chỉ chính xác số 01 khu Hòa Bình thuộc phường 1 thành phố Đà Lạt tỉnh Lâm Đồng.
 
 
-Đường đi:
+*Đường đi:*
 Do nằm ở ngay khúc cua của đường một chiều nên bạn phải chú ý một chút thì mới tìm ra tiệm bánh này.
 
 Mình sẽ chỉ đường cho bạn từ chỗ rạp chiếu phim phim ở mặt trước khu Hòa Bình nha.

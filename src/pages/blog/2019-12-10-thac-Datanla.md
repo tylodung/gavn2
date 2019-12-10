@@ -6,12 +6,12 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/thac-datanla-co-gi-cho
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-07-30T13:12:33.962Z
-description:
+date: 2019-12-10T13:12:33.962Z
+description: Nếu bạn đang tìm một thác nước đẹp nằm ngay ở trong thành phố Đà Lạt thơ mộng thì sẽ không ngần ngại giới thiệu đến bạn Thác Datanla, thác nước đã có hàng triệu lượt tham quan cùng các trò chơi hấp dẫn.
 
 ---
 
-Nếu bạn đang tìm một thác nước đẹp nằm ngay ở trong thành phố Đà Lạt thơ mộng thì sẽ không ngần ngại giới thiệu đến bạn Thác Datanla, thác nước đã có hàng triệu lượt tham quan cùng các trò chơi hấp dẫn.
+
 
 Thác Datanla có lượng nước dồi dào do thượng nguồn là nguồn nước ổn định. Datanla không ồn ào do chảy qua nhiều thềm đá. Thác đổ từ ghềnh cao 20m, nước suối phần dưới tạo thành khu vực nước rất trong nên gọi là Suối Tiên, phần sâu hun hút phía trên có một vực sâu gọi là Vực Tử Thần.
 
@@ -70,12 +70,12 @@ Không khí mát mẻ, trong lành và những cánh rừng nguyên sinh xanh ng
 
 **3. Chèo Thuyền Kayak**
 
-Đây là trò chơi được rất nhiều bạn trẻ ưa thích với chi phí 800.000đ/ người bạn sẽ được huấn luyện các kỹ năng cơ bản và trang bị quần áo bảo hộ
+Đây là trò chơi được rất nhiều bạn trẻ ưa thích với chi phí 800.000đ/ người bạn sẽ được huấn luyện các kỹ năng cơ bản và trang bị quần áo bảo hộ.
 
 
 **4. High Rope course – Đu dây mạo hiểm**
 
-Trò chơi này mới được đưa vào hoạt động nhưng đã thu hút rất nhiều bạn trẻ và khách nước ngoài tham gia với chi phí 350.000đ/ người
+Trò chơi này mới được đưa vào hoạt động nhưng đã thu hút rất nhiều bạn trẻ và khách nước ngoài tham gia với chi phí 350.000đ/người.
 
 
 Được chia thành 6 cấp độ khác nhau theo thứ tự độ khó tăng dần bao gồm 80 thử thách trong đó có các thử thách như đi bộ trên dây, leo treo trên dây và bay trên không.
@@ -92,18 +92,18 @@ Thật tuyệt vời khi có thể đi đến cấp độ cuối cùng chứng t
 
 **1. Giá vé thác Datanla**
 
-Vé tham quan vào cổng của thác là 30.000đ cho người lớn trẻ em là 15.000đ
+Vé tham quan vào cổng của thác là 30.000đ cho người lớn trẻ em là 15.000đ;
 
-Vé chơi máng trượt khứ hồi là 60.000đ người lớn trẻ em là 40.000đ
+Vé chơi máng trượt khứ hồi là 60.000đ người lớn trẻ em là 40.000đ;
 
 
 **2. Số điện thoại thác Datanla**
 
-Số điện thoại: 02633.823.238
+Số điện thoại: 02633.823.238;
 
 **3. Thác Datanla ở đâu?**
 
-Nằm cách trung tâm khoảng 5 kim thác Datanla nằm trên quốc lộ 20 thuộc phường 3 thành phố Đà Lạt tỉnh Lâm Đồng
+Nằm cách trung tâm khoảng 5 kim thác Datanla nằm trên quốc lộ 20 thuộc phường 3 thành phố Đà Lạt tỉnh Lâm Đồng;
 
 
 **Đường đi tới thác Datanla**

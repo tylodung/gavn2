@@ -6,8 +6,8 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/dia-diem-ngam-da-lat-v
 tags:
   - du lich
 uev: 4.18.6
-date: 2019-08-21T13:12:33.962Z
-description:
+date: 2019-12-10T13:12:33.962Z
+description: Ai cũng đã từng nghe và biết về Đà Lạt tuy nhiên không phải ai cũng biết chi tiết Đà Lạt ở đâu, Đà Lạt có gì và đi đà lạt nên tham quan những điểm nào.
 
 ---
 
@@ -58,7 +58,7 @@ Khách đến Đà Lạt vừa được thăm viếng, vừa thưởng thức nh
 
 *Các loài hoa đẹp*
 
-Vẻ đẹp của Đà Lạt còn được ngợi ca nhiều và hấp dẫn du khách bởi hàng trăm, ngàn loại hoa, loại phong lan độc đáo. Hoặc được sản sinh riêng trên mảnh đất này, hoặc lấy giống từ nhiều nơi như: Pháp, Anh, Hà Lan, Nhật Bản, Đài Loan, Hồng Kông, Ấn Độ, Italy,…như hoa hồng, hoa bất tử, hoa đỗ quyên, hoa xác pháo, hoa tư tưởng, hoa trà mi, mi mô da, mai anh đào, thủy tiên trắng…
+Vẻ đẹp của Đà Lạt còn được ngợi ca nhiều và hấp dẫn du khách bởi hàng trăm, ngàn loại hoa, loại phong lan độc đáo. Hoặc được sản sinh riêng trên mảnh đất này, hoặc lấy giống từ nhiều nơi như: Pháp, Anh, Hà Lan, Nhật Bản, Đài Loan, Hồng Kông, Ấn Độ, Italy,… như hoa hồng, hoa bất tử, hoa đỗ quyên, hoa xác pháo, hoa tư tưởng, hoa trà mi, mi mô da, mai anh đào, thủy tiên trắng…
 
 
 *Khách sạn Đà Lạt*
