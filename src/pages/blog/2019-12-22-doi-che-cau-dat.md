@@ -6,20 +6,20 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/doi-che-cau-dat-2-1.jp
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-09-13T13:12:33.962Z
-description:
+date: 2019-12-22T13:12:33.962Z
+description: Đồi chè cầu đất hiện ra trong khung cảnh thiên nhiên hài hòa giữa màu xanh dương của đám mây kết hợp với hình ảnh núi đồi rợp lên một màu xanh lá cây trải dài từ dãy này qua dãy khác.
 
 ---
 
 Đồi chè cầu đất hiện ra trong khung cảnh thiên nhiên hài hòa giữa màu xanh dương của đám mây kết hợp với hình ảnh núi đồi rợp lên một màu xanh lá cây trải dài từ dãy này qua dãy khác, cùng với những chú chim bay lượn trên cao tạo nên một bức tranh phong cảnh đẹp tuyệt vời.
 
 
-Đồi chè cầu đất một trong những điểm du lịch hấp dẫn nhất từ trước đến nay được hàng nghìn du khách ghé đến tham quan chụp ảnh và còn là địa điểm của những cặp đôi đến đây để chụp ảnh cưới lưu niệm. Hãy cùng Hoa Dalat Travel tìm hiểu về đồi chè này trước khi đến đây tham quan nhé khách.
+Đồi chè cầu đất một trong những điểm du lịch hấp dẫn nhất từ trước đến nay được hàng nghìn du khách ghé đến tham quan chụp ảnh và còn là địa điểm của những cặp đôi đến đây để chụp ảnh cưới lưu niệm.
 
 
 **Đồi chè cầu đất ở đâu?**
 
-Địa chỉ: Xuân trường. Tp Đà Lạt Lâm Đồng
+Địa chỉ: Xuân trường. Tp Đà Lạt Lâm Đồng.
 
 *Chi tiết đường đi*
 
@@ -71,13 +71,13 @@ Và còn là nơi tham quan du lịch tại đà lạt của nhiều du khách t
 
 **Chơi gì tại Đồi Chè Cầu Đất**
 
-Đầu tiên là chụp hình, rất nhiều bức ảnh siêu Cool đã xuất hiện từ đây làm cư dân mạng điên đảo
+Đầu tiên là chụp hình, rất nhiều bức ảnh siêu Cool đã xuất hiện từ đây làm cư dân mạng điên đảo.
 
 *Chụp hình cưới:*
 
-Nếu bạn và người ấy đang muốn ghi lại những hình ảnh đẹp nhất của đời mình thì đừng quên điểm này nhé
+Nếu bạn và người ấy đang muốn ghi lại những hình ảnh đẹp nhất của đời mình thì đừng quên điểm này nhé.
 
-Ngoài ra các bạn hãy thử trải nghiệm làm người nông dân tự tay hái những lá trà, cùng đem về xưởng xao trà , vo trà…. Tự tay làm cho mình một tách trà thơm ngon để cho gia đình, bạn bè cùng thưởng thức.
+Ngoài ra các bạn hãy thử trải nghiệm làm người nông dân tự tay hái những lá trà, cùng đem về xưởng xao trà, vo trà…. Tự tay làm cho mình một tách trà thơm ngon để cho gia đình, bạn bè cùng thưởng thức.
 
 Mọi người hãy yên tâm nhâm nhi những lá trà ngoài kia vì chúng luôn được chăm sóc rất kỹ lưỡng đảm bảo tiêu chuẩn 4 không đó là không dư lượng phân bón, không dư lượng thuốc trừ sâu, không phẩm màu, không chất bảo quản đảm bảo sản phẩm sạch luôn an toàn cho người tiêu dùng.
 
@@ -87,12 +87,11 @@ Mọi người hãy yên tâm nhâm nhi những lá trà ngoài kia vì chúng l
 
 Nếu đã tới đây rồi thì đừng quên ghé vào quán cà phê Container do Cầu Đất Farm xây dựng nhé. View bao đẹp giúp bạn có thêm rất nhiều khung hình đẹp để sống ảo nữa đấy.
 
-Menu của quán cho bạn tham khảo
+**Menu của quán cho bạn tham khảo**
 
 Cà phê Espresso giá 20.000đ/ly;
 
 Cà phê Espresso giá 30.000đ/ly;
-
 
 Bạc xỉu nóng: 30.000đ/ly;
 

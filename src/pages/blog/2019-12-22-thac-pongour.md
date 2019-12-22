@@ -6,8 +6,8 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/thac-pongour-lam-dong.
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-09-16T13:12:33.962Z
-description:
+date: 2019-12-22T13:12:33.962Z
+description: Thác Pongour là ngọn thác được rất nhiều du khách ưa thích và lựa chọn để tổ chức tham quan.
 
 ---
 
@@ -18,7 +18,7 @@ Thác Pongour là ngọn thác được rất nhiều du khách ưa thích và l
 
 **Địa chỉ thác Pongour ở đâu?**
 
-Nằm ở phía nam Đà Lạt khoảng 50km về hướng Đức Trọng . Nếu bạn đi từ hướng quốc lộ 20 Thành Phố Hồ Chí Minh lên thành phố ngàn hoa, đến cây số 260 thuộc huyện Đức Trọng, rẻ trái đi vào khoảng 6km quý du khách sẽ bắt gặp một ngọn thác hoang sơ và hùng vĩ của núi rừng Tây Nguyên. Nơi này được người dân địa phương gọi là thác Pongour hay còn tên gọi khác thác Bảy tầng bởi dòng thác chảy qua hệ thống đá bậc thang 7 tầng với độ cao gần 40m.
+Nằm ở phía nam Đà Lạt khoảng 50km về hướng Đức Trọng. Nếu bạn đi từ hướng quốc lộ 20 Thành Phố Hồ Chí Minh lên thành phố ngàn hoa, đến cây số 260 thuộc huyện Đức Trọng, rẻ trái đi vào khoảng 6km quý du khách sẽ bắt gặp một ngọn thác hoang sơ và hùng vĩ của núi rừng Tây Nguyên. Nơi này được người dân địa phương gọi là thác Pongour hay còn tên gọi khác thác Bảy tầng bởi dòng thác chảy qua hệ thống đá bậc thang 7 tầng với độ cao gần 40m.
 
 **Địa chỉ:**
 
