@@ -4,10 +4,10 @@ path: /lang-cu-lan
 title: Làng Cù Lần có gì vui và đường đi đến có dễ dàng không?
 image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/ma-rung-lu-quan-diem-phuot-da-lat.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-09-16T13:12:33.962Z
-description:
+date: 2019-12-24T13:12:33.962Z
+description: Làng Cù Lần cái tên rất ngộ nghĩnh nhưng lại là địa điểm du lịch đà lạt thú vị thu hút hàng trăm ngàn lượt tham quan hàng năm.
  
 ---
 
@@ -17,11 +17,11 @@ Làng Cù Lần cái tên rất ngộ nghĩnh nhưng lại là địa điểm du
 
 **Làng Cù Lần cách trung tâm thành phố Đà Lạt bao xa:**
 
-Câu trả lời đó chính là cách Hồ Xuân Hương và Đồi Cù 20km, đi theo hướng suối Vàng suối Bạc ( tỉnh lộ 622) hay còn gọi là đường Đông Trường Sơn, ngang qua những mặt hồ mênh mông, xuyên qua những rừng thông bất tận. Khu du lịch Làng Cù Lần tọa lạc trên địa giới thôn Suối Cạn, xã Lát, huyện Lạc Dương, Lâm Đồng.
+Câu trả lời đó chính là cách Hồ Xuân Hương và Đồi Cù 20km, đi theo hướng suối Vàng suối Bạc (tỉnh lộ 622) hay còn gọi là đường Đông Trường Sơn, ngang qua những mặt hồ mênh mông, xuyên qua những rừng thông bất tận. Khu du lịch Làng Cù Lần tọa lạc trên địa giới thôn Suối Cạn, xã Lát, huyện Lạc Dương, Lâm Đồng.
 
 Câu chuyện về Làng Cù Lần bắt đầu từ xuất xứ của cái tên Cù Lần. Cây Cù Lần vốn là loại cây dược liệu dùng để cầm máu các vết thương, cây Cù Lần cũng có thể được con người đẽo gọt trở thành những quà tặng du lịch đà lạt mang nhiều ý nghĩa của núi rừng Tây Nguyên.
 
-Cũng có một loài động vật vừa giống khỉ, vừa giống gấu trúc, đôi mắt to tròn, đen láy, đẹp mang tên Cù Lần. Những con vật bé nhỏ này ( hay còn gọi là culi) có thể được nuôi như một loại thú cưng trong.
+Cũng có một loài động vật vừa giống khỉ, vừa giống gấu trúc, đôi mắt to tròn, đen láy, đẹp mang tên Cù Lần. Những con vật bé nhỏ này (hay còn gọi là culi) có thể được nuôi như một loại thú cưng trong.
 
 
 **Ứớc mơ của chủ nhân ngôi làng cù lần đà lạt**
@@ -64,7 +64,7 @@ Gía khách sạn, và khu Resort: Trong Làng cù Lần có 2 căn Villa mỗi 
 
 Gía 2.500.000đ 1 căn villa dành cho tối đa 8 người nếu thêm người phụ thu 200.000đ;
 
-Bạn cũng có thể lựa chọn ở Bungalow tiêu chuẩn 4 sao với 11 căn riêng biệt với sức chứa tối đa 4 người giá 1.500.000đ/ đêm.
+Bạn cũng có thể lựa chọn ở Bungalow tiêu chuẩn 4 sao với 11 căn riêng biệt với sức chứa tối đa 4 người giá 1.500.000đ/đêm.
 
 Nếu đi tập thể bạn có thể ở  nhà sàn có tất cả 6 căn sức chứa mỗi căn tối đa 10 người giá 2.000.000đ/đêm. Ở nhà sàn bạn phải sử dụng nhà vệ sinh chung ở bên ngoài.
 

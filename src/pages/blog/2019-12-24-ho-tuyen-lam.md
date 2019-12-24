@@ -6,8 +6,8 @@ image: 'https://i.ytimg.com/vi/H9F9tLNf6TA/maxresdefault.jpg'
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-09-13T13:12:33.962Z
-description:
+date: 2019-12-24T13:12:33.962Z
+description: Hồ Tuyền Lâm đang là một trong những địa điểm vô cùng thu hút khách du lịch tại thành phố ngàn thông đà lạt.
  
 ---
 
@@ -78,7 +78,7 @@ Có rất nhiều du khách thắc mắc với Hoa Dalat Travel là Hồ Tuyền
 
 **Chơi gì?**
 
-Đến hồ bạn có thể lựa chọn các trò chơi như đạp vịt, uống cà phê ngắm cảnh hồ bạn cũng có thể tham khảo tour chèo thuyền ngắm lá phong của Hoa Dalat Travel để cảm nhận được vẻ đẹp của tự nhiên nơi đây.
+Đến hồ bạn có thể lựa chọn các trò chơi như đạp vịt, uống cà phê ngắm cảnh hồ bạn cũng có thể tham khảo tour chèo thuyền ngắm lá phong để cảm nhận được vẻ đẹp của tự nhiên nơi đây.
 
 Nếu muốn khám phá toàn bộ hồ bạn có thể đến bến du thuyền hồ tuyền lâm đi một vòng quanh hồ với giá từ 300.000đ tới 500,000đ cho một thuyền đoàn từ 6 tới 15 người.
 
@@ -108,7 +108,7 @@ Thiền Viện Trúc Lâm;
 
 Thác Datanla;
 
-Khu du lịch Đá Tiên Núi Voi do Công ty Du lịch dã ngoại Phương Nam tổ chức là một khu du lịch dã ngoại liên hợp: du khách bơi thuyền, câu cá, cưỡi voi, đi săn, leo núi, nghỉ ngơi trong nhà sàn, đốt lửa trại, xem trình diễn văn nghệ của đồng bào dân tộc bản địa,…Khu du lịch dã ngoại Đá Tiên có một nhà sàn dài, một số nhà sàn nhỏ lợp tranh, nhiều tảng đá lớn, trong đó có một tảng đá mang hình dáng ông tiên.Từ bến thuyền gần đập hồ Tuyền Lâm đến Đá Tiên, thuyền đi mất khoảng 15 phút, các điểm du lịch phía cuối hồ mất khoảng 25 phút.
+Khu du lịch Đá Tiên Núi Voi do Công ty Du lịch dã ngoại Phương Nam tổ chức là một khu du lịch dã ngoại liên hợp: du khách bơi thuyền, câu cá, cưỡi voi, đi săn, leo núi, nghỉ ngơi trong nhà sàn, đốt lửa trại, xem trình diễn văn nghệ của đồng bào dân tộc bản địa,…Khu du lịch dã ngoại Đá Tiên có một nhà sàn dài, một số nhà sàn nhỏ lợp tranh, nhiều tảng đá lớn, trong đó có một tảng đá mang hình dáng ông tiên. Từ bến thuyền gần đập hồ Tuyền Lâm đến Đá Tiên, thuyền đi mất khoảng 15 phút, các điểm du lịch phía cuối hồ mất khoảng 25 phút.
 
 Sân Golf Sacom;
 
@@ -116,7 +116,7 @@ Thác Bảo Đại là một thác nhỏ, tương truyền vua Bảo Đại đã
 
 Khu du lịch Nam Qua có những nhà hàng, ki-ốt lợp tranh phục vụ du khách nghi ngơi, ăn uống trên chặng đường du lịch quanh hồ Tuyền Lâm.
 
-Cầu gỗ Hồ Tuyền Lâm: Là điểm đang được giới trẻ săn lùng nhiều nhất trong thời gian qua
+Cầu gỗ Hồ Tuyền Lâm: Là điểm đang được giới trẻ săn lùng nhiều nhất trong thời gian qua.
 
 **Kinh nghiệm du lịch Hồ Tuyền Lâm**
 

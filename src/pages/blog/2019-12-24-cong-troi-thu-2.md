@@ -6,8 +6,8 @@ image: 'https://du-lich-da-lat.com/wp-content/uploads/2018/09/da-lat-view.jpg'
 tags:
   - Cafe
 uev: 4.18.6
-date: 2019-10-03T13:12:33.962Z
-description:
+date: 2019-12-24T13:12:33.962Z
+description: Sau hàng loạt quán cà phê đẹp vô cùng nổi tiếng thì trong tháng 9/2018 thành phố mộng mơ tiếp tục cho ra đời 1 quán cà phê tuyệt đẹp với tên gọi khá ấn tượng Dalat View Coffee.
  
 ---
 
