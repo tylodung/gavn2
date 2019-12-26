@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/biet-thu-hang-nga-du-l
 tags:
   - Dia diem
 uev: 4.18.6
-date: 2019-10-20T13:12:33.962Z
+date: 2019-12-26T13:12:33.962Z
 description: Khi suy nghĩ đến Thành Phố Đà Lạt, chắc hẳn các bạn sẽ nghĩ thành phố này là nơi của những biệt thự yên bình, cổ kính được bao quanh bởi rừng thông nhưng ở đây lại có một địa điểm khá “quái chiêu”...
  
 ---
