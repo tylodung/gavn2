@@ -6,7 +6,7 @@ image: 'http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Jeanne_d%27Arc_
 tags:
   - Dia diem
 uev: 4.18.6
-date: 2019-11-19T13:12:33.962Z
+date: 2020-01-01T13:12:33.962Z
 description: Nhà thờ con gà ở Đà Lạt nằm trên đường Trần Phú còn được gọi tên gọi khách là Nhà thờ Chánh Tòa.
  
 ---
@@ -22,9 +22,9 @@ Nhà thờ được bắt đầu xây dựng từ năm 1931 tới năm 1942 thì
 
 Phần phía trên cao của nhà thờ được lắp 70 tấm kính màu mang đậm phong cách của kiến trúc Châu âu thời trung cổ. Cứ mỗi dịp giáng sinh nhà thờ con gà lại đón rất nhiều khách du lịch Đà Lạt tới dự lễ và tham quan.
 
-**Tại sao lại gọi là nhà thờ con gà**
+**Tại sao lại gọi là nhà thờ con gà?**
 
-Đây là câu hỏi thú vị được rất nhiều người yêu thích lịch sử hỏi hướng dẫn viên của Hoa Dalat Travel khi đi tour đà lạt 1 ngày, câu trả lời đó chính là: Ở trên đỉnh của nhà thờ nơi đặt cây thánh giá có một con gà bằng kim loại hoàn toàn trống rỗng bên trong và được phủ một lớp một lớp hoá chất vô cùng đặc biệt có thể chịu được sự khắc nghiệt của thời gian. Vậy là bạn đã biết tại sao lại gọi là nhà thờ con gà rồi đó.
+Đây là câu hỏi thú vị được rất nhiều người yêu thích lịch sử hỏi hướng dẫn viên khi đi tour đà lạt 1 ngày, câu trả lời đó chính là: Ở trên đỉnh của nhà thờ nơi đặt cây thánh giá có một con gà bằng kim loại hoàn toàn trống rỗng bên trong và được phủ một lớp một lớp hoá chất vô cùng đặc biệt có thể chịu được sự khắc nghiệt của thời gian. Vậy là bạn đã biết tại sao lại gọi là nhà thờ con gà rồi đó.
 
 
 Mặt đứng với phần tháp chuông của nhà thờ vươn cao. Những đường nét, chi tiết trên mặt đứng hoàn toàn phỏng theo nguyên gốc của các kiểu mẫu châu Âu.
@@ -39,9 +39,9 @@ Các cột trong nội thất có hệ đầu cột, mô phỏng dạng cổ đi
 
 *Giờ lễ hàng ngày*
 
-Ngày thường : Sáng 5h15 , Chiều 17h15
+Ngày thường: Sáng 5h15 , Chiều 17h15.
 
-Chủ nhật : 5h15, 7h, 8h30, 16h, 18h
+Chủ nhật: 5h15, 7h, 8h30, 16h, 18h.
 
 Cha Phaolo Lê Đức Huân.
 

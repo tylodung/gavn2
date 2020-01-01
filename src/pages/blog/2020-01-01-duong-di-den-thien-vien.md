@@ -6,8 +6,8 @@ image: 'https://i.ytimg.com/vi/URWkzDG5Y-k/maxresdefault.jpg'
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-11-10T13:12:33.962Z
-description: Thiền viện Trúc Lâm là một trong 3 thiền viện lớn nhất ở Việt Nam thuộc dòng Trúc Lâm Yên Tử với diện tích lên tới 30ha. Từ thiền viện đi tới trung tâm thành phố Đà Lạt khoảng 5 km.
+date: 2020-01-01T13:12:33.962Z
+description: Thiền viện Trúc Lâm là một trong 3 thiền viện lớn nhất ở Việt Nam thuộc dòng Trúc Lâm Yên Tử với diện tích lên tới 30ha.
  
 ---
 
@@ -64,7 +64,7 @@ Chánh điện của Thiền Viện Trúc Lâm có diện tích 192 m2 bên tron
 
 Bên ngoài chánh điện là lầu trống và lầu chuông, bên trong lầu chuông là quả đại hồng chung nặng 1,1 tấn có khắc những bài kệ có ý nghĩa đạo lý rất cao.
 
-Rời chánh điện đi ra khu vực vườn hoa có rất nhiều các loại hoa đẹp như cẩm tú cầu, xác pháo…. và một giàn hoa móng cọp tuyệt đẹp rất được du khách thích thú chụp hình làm kỷ niệm.
+Rời chánh điện đi ra khu vực vườn hoa có rất nhiều các loại hoa đẹp như cẩm tú cầu, xác pháo… và một giàn hoa móng cọp tuyệt đẹp rất được du khách thích thú chụp hình làm kỷ niệm.
 
 Rời vườn hoa du khách đi xuống phía dưới chùa là Hồ Tĩnh Tâm, nuôi rất nhiều loại rùa cảnh, nước luôn trong xanh quanh năm xung quanh có rất nhiều ghế đá và chòi để du khách nghỉ ngơi.
 

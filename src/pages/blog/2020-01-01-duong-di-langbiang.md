@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/langbiang-da-lat-dinh.
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-11-19T13:12:33.962Z
+date: 2020-01-01T13:12:33.962Z
 description: Núi LangBiang Đà Lạt nằm trên địa bàn huyện Lạc Dương, cách trung tâm thành phố ngàn hoa mộng mơ khoảng 12km về phía bắc.
 
 
@@ -47,7 +47,7 @@ Trò chơi mạo hiểm này được đưa vào khai thác khách du lịch t�
 Giá một lần bay khoảng 600.000đ.
 
 *Đi xe Jeep:*
-Với chi phí 300.000đ/ xe cho khoảng 5 tới 6 người là bạn sẽ được đi từ chân núi lên tới đỉnh bằng Xe Jeep.
+Với chi phí 300.000đ/xe cho khoảng 5 tới 6 người là bạn sẽ được đi từ chân núi lên tới đỉnh bằng Xe Jeep.
 
 
 **Tham quan núi Lanbiang**
