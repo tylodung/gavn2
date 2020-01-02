@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/cao-dang-su-pham-da-la
 tags:
   - Dia diem
 uev: 4.18.6
-date: 2019-11-19T13:12:33.962Z
+date: 2020-01-02T13:12:33.962Z
 description: Bạn muốn tham quan Trường Cao Đẳng Sư Phạm Đà Lạt, cũng như địa chỉ và giờ mở cửa của ngôi trường có tuổi đời gần 100 năm này.
 
 ---
@@ -25,7 +25,7 @@ Trường có địa chỉ tại 29 Yersin thuộc phường 10 thành phố Đ�
 Rất dễ ràng để đi tới ngôi trường đẹp bí ẩn này bạn có thể nhìn vào google map sau được hướng dẫn đường đi từ chợ Đà Lạt.
 
 
-Nhìn vào bản đồ trên bạn có thể thấy từ chợ đi đến trường khoảng 2,9 km và chỉ mất khoảng chưa tới 10 phút là tới nơi rồi.
+Nhìn vào bản đồ trên bạn có thể thấy từ chợ đi đến trường khoảng 2,9km và chỉ mất khoảng chưa tới 10 phút là tới nơi rồi.
 
 Trường nằm gần các điểm du lịch nổi tiếng của Đà Lạt như Hồ Xuân Hương, Ga và Vườn Hoa Thành Phố.
 
@@ -72,11 +72,11 @@ Có một thời gian trường được đổi tên thành trung tâm giáo d�
 
 Ngoài dãy nhà chính này trong khuôn vườn trường còn có rất nhiều các dãy nhà khác cao từ 1 tới 2 tầng dùng để làm nơi học tập, các phòng thí nghiệm hoặc ký túc xá.
 
-Ngày nay ngoài là một điểm tham quan đà lạt hút khách trường còn là nơi đào tạo các ngành như: Sư phạm toán , lịch sử, ngữ văn, anh văn…. cho rất đông sinh viên tới học.
+Ngày nay ngoài là một điểm tham quan đà lạt hút khách trường còn là nơi đào tạo các ngành như: Sư phạm toán , lịch sử, ngữ văn, anh văn… cho rất đông sinh viên tới học.
 
 Ngày 28/12/2001 trường đã vinh dự được Bộ Văn Hoá Thông Tin công nhận là di tích kiến trúc quốc gia.
 
-Các ca sĩ nổi tiếng như Đàm Vĩnh Hưng, Nhật Tinh Anh, Sơn Tùng …. cũng đều đã đến trường để quay MV hoặc chụp ảnh lưu niệm.
+Các ca sĩ nổi tiếng như Đàm Vĩnh Hưng, Nhật Tinh Anh, Sơn Tùng … cũng đều đã đến trường để quay MV hoặc chụp ảnh lưu niệm.
 
 Nếu đi du lịch đà lạt bạn đừng quên ghé thăm ngôi trường đặc biệt này nhé!
 

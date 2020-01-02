@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://thuthuatnhanh.com/wp-content/uploads/2019/08/anh-nen-3d-thien-nhien.jpg' title="Đà Lạt quê tôi" tagline="Romantic mountain and driver.." />
+        <Header image='https://thuthuatnhanh.com/wp-content/uploads/2019/08/anh-nen-3d-thien-nhien.jpg' title="Đà Lạt hẹn hò" tagline="Romantic mountain and driver.." />
       
         <main id="site-main" className="site-main outer" role="main">
 

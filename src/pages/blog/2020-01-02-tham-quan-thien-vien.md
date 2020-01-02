@@ -6,7 +6,7 @@ image: 'https://i.ytimg.com/vi/dY1oqA6xAJA/maxresdefault.jpg'
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
+date: 2020-01-02T13:12:33.962Z
 description: Một ngôi chùa vô cùng độc đáo có một bức tượng Phật khổng lồ có thể nhìn thấy ở nhiều nơi của Đà Lạt.
 
  
@@ -29,6 +29,7 @@ Thiền viện khởi nguyên là khuôn hội Vạn Hạnh do Phật tử đị
 
 
 Năm 1994, Thượng tọa Thích Viên Thanh đã tổ chức đại trùng tu ngôi chánh điện, tạo cảnh quan đẹp cho thiền viện, như tượng Bồ tát Di Lặc lộ thiên, vườn Lâm Tì Ni, tượng Quan Âm thị hiện trên đầu rồng…
+
 Đặc biệt, ngày 14 – 4 – 2002, thiền viện đã khởi công xây dựng tượng đài Thích Ca lớn nhất tỉnh.
 
 **Các khu vực trong thiền viện**

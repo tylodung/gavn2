@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/bai-co-bo-ho-xuan-huon
 tags:
   - Dia diem
 uev: 4.18.6
-date: 2019-11-21T13:12:33.962Z
+date: 2020-01-02T13:12:33.962Z
 description: Bất cứ du khách nào khi đến trung tâm thành phố Đà Lạt đều phải ngỡ ngàng bởi vẻ đẹp của một hồ nước quanh năm xanh biếc được mệnh danh là trái tim, hòn ngọc bích của thành phố ngàn hoa mộng mơ..
 
 ---
