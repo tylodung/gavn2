@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 path: /co-gi-hap-dan
-title: Có hấp dẫn gì ở làng hoa Vạn Thành lâu đời nhất Đà Lạt
+title: Có hấp dẫn gì ở làng hoa Vạn Thành lâu đời nhất Đà Lạt?
 image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/lang-hoa-van-thanh-vuon-hoa-nu-hoang-xanh.jpg' 
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-11-27T13:12:33.962Z
-description: Ở đâu đó trong hình chữ S này hàng năm luôn tràn ngập những loài hoa khác nhau bốn mùa xuân, hạ, thu, đông đều đem lại nhiều màu hoa rực sắc đỏ,vàng, hồng, tím… 
+date: 2020-01-14T13:12:33.962Z
+description: Ở đâu đó trong hình chữ S này hàng năm luôn tràn ngập những loài hoa khác nhau bốn mùa xuân, hạ, thu, đông đều đem lại nhiều màu hoa rực sắc đỏ, vàng, hồng, tím… 
 
 ---
 
@@ -21,18 +21,15 @@ Làng hoa vạn thành một cái tên nghe thật xa sâu thẳm bởi một t�
 
 Trả lời làng hoa nằm cách trung tâm thành phố khoảng 3km về hướng Tây được người dân phía bắc di cư đến trước tiên là họ trồng rau sạch sau khi thấy được tầm quan trọng phát triển ngày một tiên tiến của thành phố nên chuyển sang trồng đủ các loại hoa vào năm 1960.
 
-*Địa chỉ:* Phường 5 thành phố Đà Lạt tỉnh Lâm Đồng
+*Địa chỉ:* Phường 5, thành phố Đà Lạt, tỉnh Lâm Đồng.
 
 *Giá vé tham quan làng hoa vạn thành:*
 
 Miễn Phí tuy nhiên nếu đi theo các chương trình tour 1 ngày ở đà lạt bạn sẽ được vào tham quan các vườn hoa đẹp và có người dân làng hoa thuyết minh.
 
-
-
 **Làng Hoa Vạn Thành Có gì**
 
 Nhờ có khí hậu mát mẻ thuận lợi cho người dân gieo trồng đưa ra hàng loạt sản phẩm hoa quý hiếm ra thị trường. Trải qua bao nhiêu năm làng trồng hoa vạn thành nhờ một lượng kiến thức dồi dào tích cực nghiên cứa học hỏi, ứng dụng thực tế khoa học kỹ thuật tiên tiến vào để cấy ghép, lai tạo ra những giống mới màu sắc hoa đẹp hơn nhã nhặn hơn từ đậm ra nhạt, từ màu tím than ra những cánh hoa lai hai màu trắng tím.
-
 
 Nhờ vậy mới có thể phát triển hơn chăm bón kỹ lưỡng để những loại hoa kia nở lâu hơn tạo ra được những vụ trái mùa và từ đó quanh năm nơi đây luôn mở cửa chào đón du khách đến tham quan hàng ngày, hàng giờ.
 
@@ -40,15 +37,11 @@ Nhờ vậy mới có thể phát triển hơn chăm bón kỹ lưỡng để nh
 
 Thật vậy! Cũng như các bạn đã biết Hoa chính là biểu tượng đặc trưng của Đà Lạt Lâm Đồng, đến đây dù đi bất cứ địa điểm nào thì hoa vẫn luôn luôn là đề tài chính cuốn hút những vị khách của chúng ta ghé đến tham quan ngắm nhìn những cành hoa ngập cả một góc trời của thành phố.
 
-
 Làng hoa Vạn Thành cũng vậy nơi đây cứ hàng tháng lại đưa đến cho người dân những cánh hoa xinh đẹp, không những thế còn chào đón các bạn gần xa ghé đến tham quan chụp ảnh kỷ niệm.
 
-Có diện tích rộng lớn khoảng hơn 200 héc ta trải dài các loại hoa đầy màu sắc như hoa hồng nhung, hoa ly, hoa hồng cánh sen, hoa cúc trắng, hoa cẩm chướng, hoa đồng tiền…làng hoa hồng vạn thành được bao bọc trong nhà lồng kính để tránh được ánh nắng gây gắt, những cơn gió mạnh những khi trời đổ cơn mưa nặng hạt thì chính lồng kính, nhà lưới này sẽ bảo vệ những bông hoa xinh đẹp đã và đang sắp nở rộ kia.
-
-
+Có diện tích rộng lớn khoảng hơn 200 héc ta trải dài các loại hoa đầy màu sắc như hoa hồng nhung, hoa ly, hoa hồng cánh sen, hoa cúc trắng, hoa cẩm chướng, hoa đồng tiền… làng hoa hồng vạn thành được bao bọc trong nhà lồng kính để tránh được ánh nắng gây gắt, những cơn gió mạnh những khi trời đổ cơn mưa nặng hạt thì chính lồng kính, nhà lưới này sẽ bảo vệ những bông hoa xinh đẹp đã và đang sắp nở rộ kia.
 
 Khi đến nơi đây bạn sẽ được tận hưởng bầu không khí trong lành thư giãn chìm đắm trong những hương thơm dịu nhẹ tỏa ra từ các loài hoa, không những thế bạn còn được tận mắt nhìn thấy những người nông dân chăm sóc nâng niu những cành hoa từng chút một nhẹ nhàng như sợ làm hư đi cái vẻ đẹp vốn có của nó.
-
 
 Mọi người còn được tận tay cầm lên những bông hoa hoặc thu gom lại cho để kịp chuyến hàng chuyển đi các nơi khác tiêu thụ, thật thú vị và vui biết bao khi được làm những điều mình yêu thích phải không nào. Bạn hãy học cách trồng hoa, chăm bón như thế nào để đem về cho mình một khu vườn hoa nhỏ xinh ngát hương nhé.
 
@@ -59,7 +52,6 @@ Có rất nhiều người muốn ngắm làng hoa vạn thành đà lạt về 
 Làng hoa vạn thành là nơi trực tiếp cung ứng sản phẩm ra các tỉnh, miền đất khác nhờ đó mà tên tuổi của làng hoa ngày càng được nhiều biết và ghé đến tham quan ngắm nhìn.
 
 Vì người nông dân nơi đây luôn tự tin rằng năng lực của mình đủ để áp dụng các phương thức trồng trọt và họ luôn quan niệm bản thân mình phải yêu nghề, có tâm với nghề khi làm việc chắc chắn sẽ thành công nơi đây sẽ đổi mới nhanh chóng, cuộc sống sẽ ngày một ổn định, nâng cao lên một bước tiến mới.
-
 
 Ai trong đời cũng luôn muốn bản thân có được một nghề ổn định thanh cao, nhưng như vậy cũng thật không dễ dàng gì có được như ý nghề nào cũng đều tạo ra thu nhập miễn là chúng ta không làm gì xấu trái với lương tâm đem cả tấm lòng nhiệt huyết làm hết sức mình là được, những người nông dân trồng hoa cũng vậy nếu họ không yêu thích thì làm sao có thể tạo dựng nên một làng hoa đầy đủ màu sắc tươi thắm đem lại cho phố núi rạng danh khẳng định danh hiệu về làng nghề truyền thống của thành phố Đà lạt.
 
