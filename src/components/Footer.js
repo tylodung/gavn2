@@ -5,7 +5,7 @@ const Footer = () =>
     <footer className="site-footer outer">
         <div className="site-footer-content inner">
             <section className="copyright">
-                <Link to="/">Vldownload.com</Link> Copyright © ® ™ Con Đường Xưa
+                <Link to="/">Vldownload.com</Link> Copyright © Nhật Ký Đà Lạt
             </section>
             <nav>
                 <a className="social-logo" href="https://youtu.be/N4WTi9EHLqA" >
