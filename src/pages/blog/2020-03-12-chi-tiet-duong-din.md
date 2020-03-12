@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 path: /chi-tiet-duong-di
-title: Đường đi đến Chùa Linh Quy Pháp Ẩn
+title: Đường đi đến Chùa Linh Quy Pháp Ẩn nơi có Cổng trời đẹp nhất Lâm Đồng
 image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/linh-quy-phap-an-mot-trong-nhung-dia-diem-phuot-da-lat.jpg' 
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-12-04T13:12:33.962Z
+date: 2020-03-12T13:12:33.962Z
 description: Chùa Linh Quy Pháp Ấn địa điểm hot nhất trong những năm gần đây sẽ được chia sẻ chi tiết trong bài viết này.
 
 ---

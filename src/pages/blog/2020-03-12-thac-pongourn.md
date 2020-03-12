@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 path: /thac-pongour
-title: Có nên đi tham quan Thác Pongour – Nam thiên đệ nhất thác
+title: Có nên đi tham quan Thác Pongour mệnh danh là Nam thiên đệ nhất thác
 image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/thac-pongour-lam-dong.jpg' 
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-12-22T13:12:33.962Z
+date: 2020-03-12T13:12:33.962Z
 description: Thác Pongour là ngọn thác được rất nhiều du khách ưa thích và lựa chọn để tổ chức tham quan.
 
 ---
