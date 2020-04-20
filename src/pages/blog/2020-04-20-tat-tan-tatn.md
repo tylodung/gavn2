@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /tat-tan-tat
 title: Kinh nghiệm về du lịch biển đảo Thái Lan
-image: 'https://i.ytimg.com/vi/mYunE9yaKbw/maxresdefault.jpg' 
+image: 'https://phuotvivu.com/blog/wp-content/uploads/2014/11/phi_phi_island_beach-600x330.jpg' 
 tags:
   - Thai Lan
 date: 2020-04-20T13:12:33.962Z
