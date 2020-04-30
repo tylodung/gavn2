@@ -21,9 +21,9 @@ import favicon16 from '../favicons/favicon-16x16.png'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Lần Đầu Tôi Kể"
+      title="Đi Chơi Tối Ngày"
       meta={[
-        { name: 'description', content: 'A tutorial site dedicated to using C++ in Unreal Engine 4.  This site is meant for game developers wanting to learn how to begin using c++ in UE4.' },
+        { name: 'description', content: 'Nếu bạn muốn con quên điện thoại và máy tính, chăm ra ngoài vận động. Hay đơn giản, bạn muốn con được sống hòa mình với thiên nhiên. Gia đình bạn đã suy nghĩ nhiều ngày nhưng chưa có kế hoạch vui chơi..' },
         { name: 'keywords', content: 'unreal, engine, ue4, c++, cpp, game, development, harrison, mcguire' },
         { charSet: 'utf-8'},
         { name: 'theme-color', content: '#663399'}
