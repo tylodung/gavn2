@@ -21,7 +21,7 @@ import favicon16 from '../favicons/favicon-16x16.png'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Đi Chơi Tối Ngày"
+      title="Kỷ Niệm Khó Phai"
       meta={[
         { name: 'description', content: 'Nếu bạn muốn con quên điện thoại và máy tính, chăm ra ngoài vận động. Hay đơn giản, bạn muốn con được sống hòa mình với thiên nhiên. Gia đình bạn đã suy nghĩ nhiều ngày nhưng chưa có kế hoạch vui chơi..' },
         { name: 'keywords', content: 'unreal, engine, ue4, c++, cpp, game, development, harrison, mcguire' },
