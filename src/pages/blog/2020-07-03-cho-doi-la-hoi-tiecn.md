@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /cho-doi-la-hoi-tiec
 title: Chờ đợi là hối tiếc, sợ hãi không bằng tiếp nhận
-image: 'http://www.dkn.tv/wp-content/uploads/2017/02/maxresdefault.jpg' 
+image: 'https://lh3.googleusercontent.com/proxy/oVubSIE3jCy64z-Q_XL3POPW9M1ngC-B1LFhE82QdPAGvsWki8QJizAx4qYJh7N40cHhiBiK__munY6kQHjIssk5a9Z8GuEheVT1vGBzmB_N_bvLwg' 
 tags:
   - Loi Day
 date: 2020-07-03T13:12:33.962Z
