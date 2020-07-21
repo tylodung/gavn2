@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 path: /cho-doi-la-hoi-tiec
-title: Chờ đợi là hối tiếc, sợ hãi không bằng tiếp nhận
-image: 'https://lh3.googleusercontent.com/proxy/oVubSIE3jCy64z-Q_XL3POPW9M1ngC-B1LFhE82QdPAGvsWki8QJizAx4qYJh7N40cHhiBiK__munY6kQHjIssk5a9Z8GuEheVT1vGBzmB_N_bvLwg' 
+title: Chờ đợi là hối tiếc, sợ hãi KHÔNG bằng tiếp nhận
+image: 'https://cafebiz.cafebizcdn.vn/thumb_w/600/2017/6-1493484277542-32-0-294-500-crop-1493992761722-1494232000009-crop-1494232169446.jpg' 
 tags:
   - Loi Day
-date: 2020-07-03T13:12:33.962Z
+date: 2020-07-21T13:12:33.962Z
 uev: 4.18.3
 description: Con người ta khi đến một độ tuổi nhất định, trải qua càng nhiều càng hiểu rõ rằng, đời người có những việc là không thể chờ đợi, chờ đợi là hối tiếc.
 ---

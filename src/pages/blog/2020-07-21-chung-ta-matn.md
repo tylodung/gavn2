@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-path: /chung-ta-mat
-title: Chúng ta mất 2 năm để Học Nói nhưng phải mất cả đời để học Im Lặng
+path: /chung-ta-mat-n
+title: Chúng ta mất 2 năm để HỌC NÓI nhưng phải mất cả đời để học IM LẶNG
 image: 'https://66.media.tumblr.com/ffefddaa8f68bd27c47409936b115e87/tumblr_inline_poew6aaJp11r7lm6r_1280.jpg' 
 tags:
   - Loi Day
-date: 2020-05-13T13:12:33.962Z
+date: 2020-07-21T13:12:33.962Z
 uev: 4.18.3
-description:
+description: Chỉ một câu chuyện đó thôi cũng đã đủ là một bài học lớn cho mỗi người, học cho mình cách sống, cách im lặng và cách lắng nghe.
 
 ---
 
