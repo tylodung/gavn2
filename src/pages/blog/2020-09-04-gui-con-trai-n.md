@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 path: /gui-con-trai
-title: Gửi con trai, Mẹ không phải là osin
+title: Gửi con trai, Mẹ không phải là "osin"
 image: 'https://muagioheomay.com/wp-content/uploads/2018/10/maxresdefault.jpg' 
 tags:
   - Loi Day
-date: 2020-07-03T13:12:33.962Z
+date: 2020-09-04T13:12:33.962Z
 uev: 4.18.3
-description:
+description: Học hỏi 10 kinh nghiệm quý báu dưới đây của những người đi trước không chỉ giúp ta vững bước trên cuộc đua đường dài ấy mà còn giúp ta hạn chế những lần vấp ngã, hạn chế những lần bước nhầm "đường vòng".
 
 ---
 

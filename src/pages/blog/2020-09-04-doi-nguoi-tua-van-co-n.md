@@ -5,14 +5,14 @@ title: Đời người tựa ván cờ Thành Công hay Thất Bại đều nằ
 image: 'https://i.ytimg.com/vi/kby4VZ6dO1U/maxresdefault.jpg' 
 tags:
   - Loi Day
-date: 2020-06-10T13:12:33.962Z
+date: 2020-09-04T13:12:33.962Z
 uev: 4.18.3
-description:
+description: Trong cuộc sống, có những người dù có tài và học thức cao nhưng vẫn không thành công, có những người tuy rất bình thường nhưng vẫn luôn đạt được.
 
 ---
 Trong cuộc sống, có những người dù có tài và học thức cao nhưng vẫn không thành công, có những người tuy rất bình thường nhưng vẫn luôn đạt được. Chuyện thành – bại, được – mất phụ thuộc rất lớn vào tâm thái của mỗi người…
 
-![ten buc hinh](http://drive.tinhhoa.net/http/1200x1200/tinhhoa.net-/CTCqQD-20170911-doi-nguoi-tua-van-co-thanh-cong-hay-that-bai-deu-nam-o-tam-thai.jpg "ten buc hinh")
+
 
 **Tầm nhìn một người như thế nào, thì cuộc sống sẽ như thế đó**
 
@@ -28,7 +28,6 @@ Bố cục như thế nào, thì vận mệnh sẽ như thế đó. Người có
 
 **Làm việc dựa vào nhân phẩm, đừng trở thành người “khôn ngoan”**
 
-![ten buc hinh](http://drive.tinhhoa.net/http/1200x1200/tinhhoa.net-/yeyKfz-20170911-doi-nguoi-tua-van-co-thanh-cong-hay-that-bai-deu-nam-o-tam-thai.jpg "ten buc hinh")
 
 Con người mà vô đức thì làm việc gì cũng sẽ không thành, đây là đạo lý bất biến từ xưa đến nay. Một người không kể là thông minh đến đâu, tài giỏi thế nào, hoàn cảnh tốt đến mấy, nhưng nếu không hiểu cách làm người, nhân phẩm thấp kém, thì sự nghiệp của anh ta nhất định sẽ bị ảnh hưởng rất lớn.
 

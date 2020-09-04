@@ -5,9 +5,9 @@ title: Miệng nói Tịnh Nghiệp, Tâm luyến Duyên Trần
 image: 'https://i.ytimg.com/vi/tByqCs6N0Tc/maxresdefault.jpg' 
 tags:
   - Loi Day
-date: 2020-07-03T13:12:33.962Z
+date: 2020-09-04T13:12:33.962Z
 uev: 4.18.3
-description:
+description: Phật A Di Đà biết căn tánh chúng ta rất hạ liệt, dùng pháp môn này giúp đỡ ta, thành tựu ta. Nếu như khinh mạn, tín tâm phù phiếm, chí nguyện trì hoãn, miệng nói tịnh nghiệp, tâm luyến duyên trần.
 
 ---
 
